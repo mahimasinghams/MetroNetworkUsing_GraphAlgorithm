@@ -1,0 +1,19 @@
+Cost MST
+--------
+Total weight of spanning tree: 6
+Spanning tree edges
+6 5
+4 6
+3 4
+2 5
+3 1
+
+Time MST
+--------
+Total weight of spanning tree: 7
+Spanning tree edges
+5 6
+5 1
+2 4
+3 6
+6 2

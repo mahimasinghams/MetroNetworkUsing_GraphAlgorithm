@@ -1,0 +1,15 @@
+Minimum Cost: 2
+Minimum Cost Path: 1 4 5 
+Minimum Time: 4
+minimum time Path: 1 4 3 5 
+......................................................................
+Minimum Cost: 4
+Minimum Cost Path: 2 5 
+Minimum Time: 4
+minimum time Path: 2 5 
+......................................................................
+Minimum Cost: 2
+Minimum Cost Path: 3 5 
+Minimum Time: 1
+minimum time Path: 3 5 
+......................................................................
